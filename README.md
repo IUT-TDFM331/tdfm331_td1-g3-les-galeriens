@@ -47,5 +47,10 @@ codes couvert/non couverts par les tests.
 ## Contributors 
 ```java
 //TODO
+Pasquier
+Cumont
+Brunetti
+Magaud
+G3
 ```
 
