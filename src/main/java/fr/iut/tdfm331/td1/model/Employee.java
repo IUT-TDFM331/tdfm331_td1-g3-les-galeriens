@@ -3,7 +3,6 @@ package fr.iut.tdfm331.td1.model;
 /**
  * Model object representing an Employee
  */
-//com
 public class Employee {
 
     private final String name;
