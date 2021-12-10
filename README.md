@@ -44,13 +44,12 @@ codes couvert/non couverts par les tests.
 - Commits à chaque nouvelle fonctionnalité 
 - Attention, je dois pouvoir identifier clairement le travail de chaque membre du groupe. Ne laissez pas une seule personne macher tout le boulot. 
 
-## Contributors 
-```java
-//TODO
-Pasquier
-Cumont
-Brunetti
-Magaud
+## Contributors
 G3
-```
+-Pasquier
+-Cumont
+-Brunetti
+-Magaud
+
+
 
