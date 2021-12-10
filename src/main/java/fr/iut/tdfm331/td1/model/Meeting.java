@@ -2,7 +2,6 @@ package fr.iut.tdfm331.td1.model;
 
 import java.util.List;
 
-//lol super
 /**
  * Model object representing a Meeting
  */
