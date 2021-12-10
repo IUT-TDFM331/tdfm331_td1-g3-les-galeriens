@@ -46,10 +46,10 @@ codes couvert/non couverts par les tests.
 
 ## Contributors
 G3
--Pasquier
--Cumont
--Brunetti
--Magaud
+- Pasquier
+- Cumont
+- Brunetti
+- Magaud
 
 
 
